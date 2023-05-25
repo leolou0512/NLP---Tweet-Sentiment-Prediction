@@ -34,7 +34,7 @@ The following preprocessing steps were done: spell and slang correction, emotico
 
 
 ## Installation
-Simply run all the cells in the tweet_analysis.ipynb, it should install all the related 
+Simply run all the cells in the tweet_analysis.ipynb, it should install all the related libraries and train the model.
 
 
 ## Acknowledgements
